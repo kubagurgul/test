@@ -1,4 +1,6 @@
 {
     "test" : "asdfsdf",
-    "age" : 22
+    "age" : 22,
+    "schema": "default",
+    "version": "dev"
 }
