@@ -1,5 +1,7 @@
 {
     "test" : "asdfsdf",
     "age" : 22,
-    "height": 122
+    "height": 122,
+    "schema": "default",
+    "version": "dev"
 }
