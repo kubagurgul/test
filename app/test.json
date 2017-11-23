@@ -3,5 +3,6 @@
     "age" : 22,
     "height": 122,
     "schema": "default",
-    "version": "dev"
+    "version": "dev",
+    "size": 33
 }
