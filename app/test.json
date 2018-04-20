@@ -1,5 +1,6 @@
 {
     "test" : "asdfsdf",
+    "minor": "2",
     "age" : 22,
     "height": 122,
     "schema": "default",
